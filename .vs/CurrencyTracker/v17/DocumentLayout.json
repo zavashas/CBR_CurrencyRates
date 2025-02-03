@@ -3,40 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\simaz\\source\\repos\\CurrencyTracker\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{963B13A9-CB12-402F-8566-6284EC7AEE0A}|CurrencyTracker\\CurrencyTracker.csproj|c:\\users\\simaz\\source\\repos\\currencytracker\\currencytracker\\services\\currencyrateloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{963B13A9-CB12-402F-8566-6284EC7AEE0A}|CurrencyTracker\\CurrencyTracker.csproj|solutionrelative:currencytracker\\services\\currencyrateloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{963B13A9-CB12-402F-8566-6284EC7AEE0A}|CurrencyTracker\\CurrencyTracker.csproj|c:\\users\\simaz\\source\\repos\\currencytracker\\currencytracker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{963B13A9-CB12-402F-8566-6284EC7AEE0A}|CurrencyTracker\\CurrencyTracker.csproj|solutionrelative:currencytracker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{963B13A9-CB12-402F-8566-6284EC7AEE0A}|CurrencyTracker\\CurrencyTracker.csproj|c:\\users\\simaz\\source\\repos\\currencytracker\\currencytracker\\services\\getcurrency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{963B13A9-CB12-402F-8566-6284EC7AEE0A}|CurrencyTracker\\CurrencyTracker.csproj|solutionrelative:currencytracker\\services\\getcurrency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{963B13A9-CB12-402F-8566-6284EC7AEE0A}|CurrencyTracker\\CurrencyTracker.csproj|c:\\users\\simaz\\source\\repos\\currencytracker\\currencytracker\\xmlmodels\\valcurs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{963B13A9-CB12-402F-8566-6284EC7AEE0A}|CurrencyTracker\\CurrencyTracker.csproj|solutionrelative:currencytracker\\xmlmodels\\valcurs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{963B13A9-CB12-402F-8566-6284EC7AEE0A}|CurrencyTracker\\CurrencyTracker.csproj|c:\\users\\simaz\\source\\repos\\currencytracker\\currencytracker\\models\\currencydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{963B13A9-CB12-402F-8566-6284EC7AEE0A}|CurrencyTracker\\CurrencyTracker.csproj|solutionrelative:currencytracker\\models\\currencydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{963B13A9-CB12-402F-8566-6284EC7AEE0A}|CurrencyTracker\\CurrencyTracker.csproj|c:\\users\\simaz\\source\\repos\\currencytracker\\currencytracker\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{963B13A9-CB12-402F-8566-6284EC7AEE0A}|CurrencyTracker\\CurrencyTracker.csproj|solutionrelative:currencytracker\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{963B13A9-CB12-402F-8566-6284EC7AEE0A}|CurrencyTracker\\CurrencyTracker.csproj|c:\\users\\simaz\\source\\repos\\currencytracker\\currencytracker\\currencytracker.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{963B13A9-CB12-402F-8566-6284EC7AEE0A}|CurrencyTracker\\CurrencyTracker.csproj|solutionrelative:currencytracker\\currencytracker.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{963B13A9-CB12-402F-8566-6284EC7AEE0A}|CurrencyTracker\\CurrencyTracker.csproj|c:\\users\\simaz\\source\\repos\\currencytracker\\currencytracker\\models\\currencyrate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{963B13A9-CB12-402F-8566-6284EC7AEE0A}|CurrencyTracker\\CurrencyTracker.csproj|solutionrelative:currencytracker\\models\\currencyrate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{963B13A9-CB12-402F-8566-6284EC7AEE0A}|CurrencyTracker\\CurrencyTracker.csproj|c:\\users\\simaz\\source\\repos\\currencytracker\\currencytracker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{963B13A9-CB12-402F-8566-6284EC7AEE0A}|CurrencyTracker\\CurrencyTracker.csproj|solutionrelative:currencytracker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{963B13A9-CB12-402F-8566-6284EC7AEE0A}|CurrencyTracker\\CurrencyTracker.csproj|c:\\users\\simaz\\source\\repos\\currencytracker\\currencytracker\\models\\currencydbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{963B13A9-CB12-402F-8566-6284EC7AEE0A}|CurrencyTracker\\CurrencyTracker.csproj|solutionrelative:currencytracker\\models\\currencydbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{963B13A9-CB12-402F-8566-6284EC7AEE0A}|CurrencyTracker\\CurrencyTracker.csproj|c:\\users\\simaz\\source\\repos\\currencytracker\\currencytracker\\models\\currencydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{963B13A9-CB12-402F-8566-6284EC7AEE0A}|CurrencyTracker\\CurrencyTracker.csproj|solutionrelative:currencytracker\\models\\currencydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{963B13A9-CB12-402F-8566-6284EC7AEE0A}|CurrencyTracker\\CurrencyTracker.csproj|c:\\users\\simaz\\source\\repos\\currencytracker\\currencytracker\\models\\currency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{963B13A9-CB12-402F-8566-6284EC7AEE0A}|CurrencyTracker\\CurrencyTracker.csproj|solutionrelative:currencytracker\\models\\currency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{963B13A9-CB12-402F-8566-6284EC7AEE0A}|CurrencyTracker\\CurrencyTracker.csproj|c:\\users\\simaz\\source\\repos\\currencytracker\\currencytracker\\services\\getcurrency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{963B13A9-CB12-402F-8566-6284EC7AEE0A}|CurrencyTracker\\CurrencyTracker.csproj|solutionrelative:currencytracker\\services\\getcurrency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{963B13A9-CB12-402F-8566-6284EC7AEE0A}|CurrencyTracker\\CurrencyTracker.csproj|c:\\users\\simaz\\source\\repos\\currencytracker\\currencytracker\\xmlmodels\\valute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{963B13A9-CB12-402F-8566-6284EC7AEE0A}|CurrencyTracker\\CurrencyTracker.csproj|solutionrelative:currencytracker\\xmlmodels\\valute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{963B13A9-CB12-402F-8566-6284EC7AEE0A}|CurrencyTracker\\CurrencyTracker.csproj|c:\\users\\simaz\\source\\repos\\currencytracker\\currencytracker\\models\\currency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{963B13A9-CB12-402F-8566-6284EC7AEE0A}|CurrencyTracker\\CurrencyTracker.csproj|solutionrelative:currencytracker\\models\\currency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{963B13A9-CB12-402F-8566-6284EC7AEE0A}|CurrencyTracker\\CurrencyTracker.csproj|c:\\users\\simaz\\source\\repos\\currencytracker\\currencytracker\\xmlmodels\\valcurs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{963B13A9-CB12-402F-8566-6284EC7AEE0A}|CurrencyTracker\\CurrencyTracker.csproj|solutionrelative:currencytracker\\xmlmodels\\valcurs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,8 +46,34 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "README.txt",
+              "DocumentMoniker": "C:\\Users\\simaz\\source\\repos\\CurrencyTracker\\CurrencyTracker\\README.txt",
+              "RelativeDocumentMoniker": "CurrencyTracker\\README.txt",
+              "ToolTip": "C:\\Users\\simaz\\source\\repos\\CurrencyTracker\\CurrencyTracker\\README.txt",
+              "RelativeToolTip": "CurrencyTracker\\README.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-02-03T14:08:14.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CurrencyDbContextFactory.cs",
+              "DocumentMoniker": "C:\\Users\\simaz\\source\\repos\\CurrencyTracker\\CurrencyTracker\\Models\\CurrencyDbContextFactory.cs",
+              "RelativeDocumentMoniker": "CurrencyTracker\\Models\\CurrencyDbContextFactory.cs",
+              "ToolTip": "C:\\Users\\simaz\\source\\repos\\CurrencyTracker\\CurrencyTracker\\Models\\CurrencyDbContextFactory.cs",
+              "RelativeToolTip": "CurrencyTracker\\Models\\CurrencyDbContextFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T13:39:56.651Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 4,
@@ -56,87 +82,48 @@
               "RelativeDocumentMoniker": "CurrencyTracker\\Models\\CurrencyDbContext.cs",
               "ToolTip": "C:\\Users\\simaz\\source\\repos\\CurrencyTracker\\CurrencyTracker\\Models\\CurrencyDbContext.cs",
               "RelativeToolTip": "CurrencyTracker\\Models\\CurrencyDbContext.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAYwC4AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAABNAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T09:50:54.577Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CurrencyRateLoader.cs",
-              "DocumentMoniker": "C:\\Users\\simaz\\source\\repos\\CurrencyTracker\\CurrencyTracker\\Services\\CurrencyRateLoader.cs",
-              "RelativeDocumentMoniker": "CurrencyTracker\\Services\\CurrencyRateLoader.cs",
-              "ToolTip": "C:\\Users\\simaz\\source\\repos\\CurrencyTracker\\CurrencyTracker\\Services\\CurrencyRateLoader.cs",
-              "RelativeToolTip": "CurrencyTracker\\Services\\CurrencyRateLoader.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAqwBUAAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T09:35:34.071Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\simaz\\source\\repos\\CurrencyTracker\\CurrencyTracker\\Program.cs",
-              "RelativeDocumentMoniker": "CurrencyTracker\\Program.cs",
-              "ToolTip": "C:\\Users\\simaz\\source\\repos\\CurrencyTracker\\CurrencyTracker\\Program.cs",
-              "RelativeToolTip": "CurrencyTracker\\Program.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAA1wA8AAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-27T13:36:20.039Z",
+              "WhenOpened": "2025-02-03T13:28:13.571Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "GetCurrency.cs",
-              "DocumentMoniker": "C:\\Users\\simaz\\source\\repos\\CurrencyTracker\\CurrencyTracker\\Services\\GetCurrency.cs",
-              "RelativeDocumentMoniker": "CurrencyTracker\\Services\\GetCurrency.cs",
-              "ToolTip": "C:\\Users\\simaz\\source\\repos\\CurrencyTracker\\CurrencyTracker\\Services\\GetCurrency.cs",
-              "RelativeToolTip": "CurrencyTracker\\Services\\GetCurrency.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAACkAAAABAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\simaz\\source\\repos\\CurrencyTracker\\CurrencyTracker\\Program.cs",
+              "RelativeDocumentMoniker": "CurrencyTracker\\Program.cs",
+              "ToolTip": "C:\\Users\\simaz\\source\\repos\\CurrencyTracker\\CurrencyTracker\\Program.cs",
+              "RelativeToolTip": "CurrencyTracker\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T09:29:40.977Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ValCurs.cs",
-              "DocumentMoniker": "C:\\Users\\simaz\\source\\repos\\CurrencyTracker\\CurrencyTracker\\XmlModels\\ValCurs.cs",
-              "RelativeDocumentMoniker": "CurrencyTracker\\XmlModels\\ValCurs.cs",
-              "ToolTip": "C:\\Users\\simaz\\source\\repos\\CurrencyTracker\\CurrencyTracker\\XmlModels\\ValCurs.cs",
-              "RelativeToolTip": "CurrencyTracker\\XmlModels\\ValCurs.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-30T14:44:17.007Z",
+              "WhenOpened": "2025-02-03T13:39:15.271Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "CurrencyTracker.csproj",
-              "DocumentMoniker": "C:\\Users\\simaz\\source\\repos\\CurrencyTracker\\CurrencyTracker\\CurrencyTracker.csproj",
-              "RelativeDocumentMoniker": "CurrencyTracker\\CurrencyTracker.csproj",
-              "ToolTip": "C:\\Users\\simaz\\source\\repos\\CurrencyTracker\\CurrencyTracker\\CurrencyTracker.csproj",
-              "RelativeToolTip": "CurrencyTracker\\CurrencyTracker.csproj",
+              "Title": "Currency.cs",
+              "DocumentMoniker": "C:\\Users\\simaz\\source\\repos\\CurrencyTracker\\CurrencyTracker\\Models\\Currency.cs",
+              "RelativeDocumentMoniker": "CurrencyTracker\\Models\\Currency.cs",
+              "ToolTip": "C:\\Users\\simaz\\source\\repos\\CurrencyTracker\\CurrencyTracker\\Models\\Currency.cs",
+              "RelativeToolTip": "CurrencyTracker\\Models\\Currency.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-01-27T13:36:32.757Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T13:28:12.466Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "CurrencyRate.cs",
-              "DocumentMoniker": "C:\\Users\\simaz\\source\\repos\\CurrencyTracker\\CurrencyTracker\\Models\\CurrencyRate.cs",
-              "RelativeDocumentMoniker": "CurrencyTracker\\Models\\CurrencyRate.cs",
-              "ToolTip": "C:\\Users\\simaz\\source\\repos\\CurrencyTracker\\CurrencyTracker\\Models\\CurrencyRate.cs",
-              "RelativeToolTip": "CurrencyTracker\\Models\\CurrencyRate.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "GetCurrency.cs",
+              "DocumentMoniker": "C:\\Users\\simaz\\source\\repos\\CurrencyTracker\\CurrencyTracker\\Services\\GetCurrency.cs",
+              "RelativeDocumentMoniker": "CurrencyTracker\\Services\\GetCurrency.cs",
+              "ToolTip": "C:\\Users\\simaz\\source\\repos\\CurrencyTracker\\CurrencyTracker\\Services\\GetCurrency.cs",
+              "RelativeToolTip": "CurrencyTracker\\Services\\GetCurrency.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T09:41:25.196Z",
+              "WhenOpened": "2025-01-28T09:29:40.977Z",
               "EditorCaption": ""
             },
             {
@@ -147,22 +134,33 @@
               "RelativeDocumentMoniker": "CurrencyTracker\\XmlModels\\Valute.cs",
               "ToolTip": "C:\\Users\\simaz\\source\\repos\\CurrencyTracker\\CurrencyTracker\\XmlModels\\Valute.cs",
               "RelativeToolTip": "CurrencyTracker\\XmlModels\\Valute.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAqwB4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-30T14:44:52.398Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-30T14:44:52.398Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "Currency.cs",
-              "DocumentMoniker": "C:\\Users\\simaz\\source\\repos\\CurrencyTracker\\CurrencyTracker\\Models\\Currency.cs",
-              "RelativeDocumentMoniker": "CurrencyTracker\\Models\\Currency.cs",
-              "ToolTip": "C:\\Users\\simaz\\source\\repos\\CurrencyTracker\\CurrencyTracker\\Models\\Currency.cs",
-              "RelativeToolTip": "CurrencyTracker\\Models\\Currency.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAXAAAAAAAAAA==",
+              "Title": "ValCurs.cs",
+              "DocumentMoniker": "C:\\Users\\simaz\\source\\repos\\CurrencyTracker\\CurrencyTracker\\XmlModels\\ValCurs.cs",
+              "RelativeDocumentMoniker": "CurrencyTracker\\XmlModels\\ValCurs.cs",
+              "ToolTip": "C:\\Users\\simaz\\source\\repos\\CurrencyTracker\\CurrencyTracker\\XmlModels\\ValCurs.cs",
+              "RelativeToolTip": "CurrencyTracker\\XmlModels\\ValCurs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T09:38:12.225Z",
+              "WhenOpened": "2025-01-30T14:44:17.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CurrencyTracker.csproj",
+              "DocumentMoniker": "C:\\Users\\simaz\\source\\repos\\CurrencyTracker\\CurrencyTracker\\CurrencyTracker.csproj",
+              "RelativeDocumentMoniker": "CurrencyTracker\\CurrencyTracker.csproj",
+              "ToolTip": "C:\\Users\\simaz\\source\\repos\\CurrencyTracker\\CurrencyTracker\\CurrencyTracker.csproj",
+              "RelativeToolTip": "CurrencyTracker\\CurrencyTracker.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-27T13:36:32.757Z",
               "EditorCaption": ""
             }
           ]

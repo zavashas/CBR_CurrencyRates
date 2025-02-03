@@ -9,6 +9,9 @@ using System.Xml.Serialization;
 
 namespace CurrencyTracker.Services
 {
+    /// <summary>
+    /// Получение данных из цбр, создание моделей xml
+    /// </summary>
     public class GetCurrency
     {
         private static readonly HttpClient client = new HttpClient();

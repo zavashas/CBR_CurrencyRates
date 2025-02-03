@@ -5,6 +5,9 @@ using System.Threading.Tasks;
 
 namespace CurrencyTracker.Services
 {
+    /// <summary>
+    /// Загрузка данных из цбр в бд
+    /// </summary>
     public class CurrencyRateLoader
     {
         private readonly CurrencyDbContext _dbContext;
@@ -37,6 +40,8 @@ namespace CurrencyTracker.Services
                 foreach (var valute in rates.Valutes)
                 {
                     var currency = _dbContext.Currencies.FirstOrDefault(c => c.CharCode == valute.CharCode);
+
+                    // Если валюты нет в базе данных, добавляем её
                     if (currency == null)
                     {
                         currency = new Currency
@@ -46,6 +51,7 @@ namespace CurrencyTracker.Services
                             NameCurrency = valute.Name
                         };
                         _dbContext.Currencies.Add(currency);
+                        await _dbContext.SaveChangesAsync();  
                     }
 
                     // Проверка есть ли уже курс валюты для текущей даты
@@ -53,8 +59,6 @@ namespace CurrencyTracker.Services
                     var existingRate = _dbContext.CurrencyRates
                         .FirstOrDefault(r => r.CurrencyId == currency.IdCurrency && r.DateCurrencyRate == date);
 
-                    // Если нет, добавляем 
-                        
                     if (existingRate == null)
                     {
                         var exchangeRate = new CurrencyRate

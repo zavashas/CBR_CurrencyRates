@@ -150,3 +150,11 @@ C:\Users\simaz\source\repos\CurrencyTracker\CurrencyTracker\obj\Debug\net8.0\ref
 C:\Users\simaz\source\repos\CurrencyTracker\CurrencyTracker\obj\Debug\net8.0\CurrencyTracker.pdb
 C:\Users\simaz\source\repos\CurrencyTracker\CurrencyTracker\obj\Debug\net8.0\CurrencyTracker.genruntimeconfig.cache
 C:\Users\simaz\source\repos\CurrencyTracker\CurrencyTracker\obj\Debug\net8.0\ref\CurrencyTracker.dll
+C:\Users\simaz\source\repos\CurrencyTracker\CurrencyTracker\obj\Debug\net8.0\CurrencyTracker.sourcelink.json
+C:\Users\simaz\source\repos\CurrencyTracker\CurrencyTracker\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+C:\Users\simaz\source\repos\CurrencyTracker\CurrencyTracker\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\simaz\source\repos\CurrencyTracker\CurrencyTracker\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\simaz\source\repos\CurrencyTracker\CurrencyTracker\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\simaz\source\repos\CurrencyTracker\CurrencyTracker\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\simaz\source\repos\CurrencyTracker\CurrencyTracker\bin\Debug\net8.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\simaz\source\repos\CurrencyTracker\CurrencyTracker\bin\Debug\net8.0\appsettings.json

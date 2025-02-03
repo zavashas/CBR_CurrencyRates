@@ -1,10 +1,13 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations.Schema;
+using System.ComponentModel.DataAnnotations;
 
 namespace CurrencyTracker.Models;
 
 public partial class CurrencyRate
 {
+
     public int IdCurrencyRate { get; set; }
 
     public int CurrencyId { get; set; }

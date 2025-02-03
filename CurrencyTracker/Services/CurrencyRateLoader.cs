@@ -25,16 +25,29 @@ namespace CurrencyTracker.Services
             DateTime monthAgo = today.AddDays(-30);
 
             // Удаление устаревших курсов валют
-
             var outdatedRates = _dbContext.CurrencyRates.Where(r => r.DateCurrencyRate < monthAgo);
             _dbContext.CurrencyRates.RemoveRange(outdatedRates);
             await _dbContext.SaveChangesAsync();
 
-            // Загрузка курсов валют за последние 30 дней
+            // Получаем все уникальные даты, для которых уже есть данные
+            var existingDates = _dbContext.CurrencyRates
+                .Where(r => r.DateCurrencyRate >= monthAgo && r.DateCurrencyRate <= today)
+                .Select(r => r.DateCurrencyRate)
+                .Distinct()
+                .ToList();
 
+            // Загрузка курсов валют за последние 30 дней, если данных еще нет
             for (int i = 0; i < 30; i++)
             {
                 DateTime date = today.AddDays(-i);
+
+                // Если данные за эту дату уже есть, пропускаем запрос
+                if (existingDates.Contains(date))
+                {
+                    continue;
+                }
+
+                // Запрашиваем данные, если их нет
                 var rates = await _getCurrency.GetCurrencyRatesAsync(date);
 
                 foreach (var valute in rates.Valutes)
@@ -51,11 +64,10 @@ namespace CurrencyTracker.Services
                             NameCurrency = valute.Name
                         };
                         _dbContext.Currencies.Add(currency);
-                        await _dbContext.SaveChangesAsync();  
+                        await _dbContext.SaveChangesAsync();
                     }
 
-                    // Проверка есть ли уже курс валюты для текущей даты
-
+                    // Проверка, есть ли уже курс валюты для текущей даты
                     var existingRate = _dbContext.CurrencyRates
                         .FirstOrDefault(r => r.CurrencyId == currency.IdCurrency && r.DateCurrencyRate == date);
 
@@ -76,5 +88,6 @@ namespace CurrencyTracker.Services
                 await _dbContext.SaveChangesAsync();
             }
         }
+
     }
 }
